@@ -1,4 +1,4 @@
-![MasterHead](https://www.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_12144978.htm#query=react%20native&position=0&from_view=search&track=ais)
+![MasterHead](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
 <h1 align="center">Hi 👋, I'm Akshay Kher</h1>
 <h3 align="center">A passionate problem solver and React Native App developer from India</h3>
 
