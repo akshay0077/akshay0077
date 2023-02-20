@@ -1,6 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_12144978.htm#query=react%20native&position=0&from_view=search&track=ais)
 <h1 align="center">Hi 👋, I'm Akshay Kher</h1>
-<h3 align="center">A passionate problem solver and FullStack Android App developer from India</h3>
+<h3 align="center">A passionate problem solver and React Native App developer from India</h3>
 
 <!-- <img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay0077" alt="akshay0077" /></a> </p>
 
-- 🔭 I’m worked on IT Craft Solution [FullStack Android App developer Intern](https://www.linkedin.com/company/itcraftsolution/)
 
-- 🌱 I’m currently learning **Data Structure Algorithm & Advance Android App Development**
+- 🌱 I’m currently learning **Data Structure Algorithm & Advance React Native App Development**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.itcraftsolution.picturepoint](https://play.google.com/store/apps/details?id=com.itcraftsolution.picturepoint)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **akshay007.kher@gmail.com**
 
