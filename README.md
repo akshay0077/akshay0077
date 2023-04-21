@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Data Structure Algorithm & Advance React Native App Development**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.itcraftsolution.picturepoint](https://play.google.com/store/apps/details?id=com.itcraftsolution.picturepoint)
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=IT+Craft+Solution](https://play.google.com/store/apps/developer?id=IT+Craft+Solution)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React & React Native**
 
 - 📫 How to reach me **akshay007.kher@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oLZM4RwCYIJz7Km515MLakJMG5N81s5I/view](https://drive.google.com/file/d/1oLZM4RwCYIJz7Km515MLakJMG5N81s5I/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tAPm31GNs2M9Xt9n-DvyiYWC9q7NAxI7/view](https://drive.google.com/file/d/1tAPm31GNs2M9Xt9n-DvyiYWC9q7NAxI7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
