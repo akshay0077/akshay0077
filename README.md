@@ -68,9 +68,3 @@
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay0077&show_icons=true&locale=en&layout=compact" alt="akshay0077" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay0077&show_icons=true&locale=en" alt="akshay0077" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0077&" alt="akshay0077" /></p>
