@@ -46,11 +46,6 @@
   
 </div> <br>
 
-<div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshay0077&area=true&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E" alt="Makwana Bharat Github Activity Graph" width="100%">
-</div>
-
-</br>
-
 <h2></h2>
 
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
