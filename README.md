@@ -57,9 +57,11 @@
   <a href="https://github.com/akshay0077/KherMovieShow" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=KherMovieShow&theme=radical" width="49%" height="50%" alt="KherMovieShow"/>
   </a>
-  <a href="https://github.com/akshay0077/Tasty-AG-Delights" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=Tasty-AG-Delights&theme=radical" width="49%" alt="Tasty-AG-Delights"/>
+ 
+ <a href="https://github.com/akshay0077/Tasty-AG-Delights" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=Tasty-AG-Delights&theme=radical" width="49%" height="50%" alt="TastyAGDelights"/>
   </a>
+ 
   <a href="https://github.com/akshay0077/FitFrenzy" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=FitFrenzy&theme=radical&theme=radical" width="49%" alt="FitFrenzy"/>
   </a>
