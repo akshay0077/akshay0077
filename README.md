@@ -61,7 +61,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=Tasty-AG-Delights&theme=radical" width="49%" alt="Tasty-AG-Delights"/>
   </a>
   <a href="https://github.com/akshay0077/FitFrenzy" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=FitFrenzy&theme=radical&custom_title=VBior" width="49%" alt="FitFrenzy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=FitFrenzy&theme=radical&theme=radical" width="49%" alt="FitFrenzy"/>
   </a>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
