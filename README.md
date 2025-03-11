@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay0077&show_icons=true&locale=en" alt="akshay0077" /></p>
  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0077&" alt="akshay0077" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0077&" alt="akshay0077" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
