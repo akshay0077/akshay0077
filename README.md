@@ -40,9 +40,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay0077&show_icons=true&locale=en&layout=compact" alt="akshay0077" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay0077&show_icons=true&locale=en" alt="akshay0077" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0077&" alt="akshay0077" /></p>
  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0077&" alt="akshay0077" /></p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -63,7 +63,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=portfolio-builder-website&theme=radical" width="49%" alt="Portfolio-builder"/>
   </a>
   <a href="https://github.com/akshay0077/todo-payload-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=todo-payload-app&theme=radical" width="49%" height="50%" alt="todo-app"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay0077&repo=todo-payload-app&theme=radical" width="49%" alt="todo-app"/>
   </a>
  
 </div>
